@@ -1,0 +1,30 @@
+.converter {
+	width: 320px;
+	justify-content: center;
+	margin: 0 auto;
+	margin-top: 400px;
+}
+.converter:hover {
+	transform: scale(1.2);
+}
+input {
+	height: 30px;
+	border-radius: 5px;
+	margin: 5px;
+}
+.enter {
+	width: 300px;
+}
+.button {
+	background-color: rgb(102, 150, 255);
+	opacity: 0.9;
+	color: white; 
+	width: 70px;
+}
+.button:active {
+	opacity: 1;
+}
+.result {
+	width: 220px;
+	margin-left: 0;
+}
